@@ -1,0 +1,4 @@
+customer_id,incorporator_name,corporation_name,customer_type,date_of_incorporation,registration_number,tax_identification_no,industry,unit_number,address_line1,address_line2,city,state_province,postal_zip_code,country,create_date,last_update_date
+1,Norma2 Fisher,Sheppard-Tucker1,Partnership,2022-12-05,8808,56930,Finance,141,242 Christine Glen,Apt. 411,Thomasville,Minnesota,57408,USA,2023-01-14,2023-11-27
+2,Karen2 Grimes,Brown-Sellers,Partnership,2020-06-19,2528,62274,Education,597,753 Padilla Circles,Apt. 933,Port Amy,Colorado,11045,USA,2023-01-26,2025-03-25
+3,Riya Chanda,Pradhishila Ltd,Partnership,2023-12-01,5509,69056,Education,323,515 Tom Roads Suite 330,Suite 135,West Ronald,Arkansas,13687,USA,2021-08-04,2025-03-24
